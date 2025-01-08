@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋, I'm Matheus Mamede</h1>
-<h3 align="center">I am a beginner developer, Brazilian and coffee lover.</h3>
+# Hello. I'm Matheus Mamede! 💎
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevenmatt" alt="sevenmatt" /></a> </p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/mamede.matheuspv/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SevenMatt)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)](https://www.facebook.com/profile.php?id=100006945962176)
 
-- 👯 I’m looking to collaborate on **Shellscript,C and Ruby projects.**
+![SevennMatt GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenMatt&show_icons=true&theme=radical)
 
-- 💬 Ask me about **anything**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenMatt)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **matheusmamedd@gmail.com**
+## Technologies I use in my day. 🖥️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sevenmatt666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@sevenmatt666" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mattmamede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattmamede" height="30" width="40" /></a>
-<a href="https://fb.com/matheus mamede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="matheus mamede" height="30" width="40" /></a>
-<a href="https://instagram.com/@seven.matt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@seven.matt" height="30" width="40" /></a>
-<a href="https://www.behance.net/sevenmatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="sevenmatt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/matheus mamede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="matheus mamede" height="30" width="40" /></a>
-</p>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  </div><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+# Love technology, music, coffee and adventures.⭐
+
+## Contact: 
+- [Gmail](matheusmamedd@gmail.com)
+- [Linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
